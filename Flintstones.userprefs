@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="Flintstones.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Hero.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Hero.cs" Line="176" Column="23" />
+      <File FileName="Assets\Scripts\Dragon.cs" Line="94" Column="159" />
+      <File FileName="Assets\Scripts\Stick.cs" Line="8" Column="16" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
